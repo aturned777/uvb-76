@@ -1,0 +1,26 @@
+html {
+background-image: url(https://media.discordapp.net/attachments/1048512856334807123/1109564983093764257/background.png?width=990&height=629);
+background-position: center center;
+background-attachment: fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+h1 {
+  color: white;
+  font-family: courier;
+}
+p {
+  color: white;
+  font-family: monospace;
+  font-size: 16pt;
+}
+
+/* url*/
+a {
+  color: #b7d4ff
+}
+a:hover {
+  color: #fab7ff
+}
